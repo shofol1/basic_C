@@ -1,5 +1,7 @@
- // if(X>="a" && X<="z"){
-        //     printf("ALPHA\n IS SMALL");
-        // }else{
-        //        printf("ALPHA\n IS CAPITAL");
-        // }
+ if(arr[i]==s){
+        //     printf("%d\n",i);
+        
+        //  }else{
+        //       printf("%d\n",-1);
+        //   break;
+        //  }
