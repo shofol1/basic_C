@@ -1,1 +1,1 @@
-int i=n;
+printf
